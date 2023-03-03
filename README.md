@@ -1,2 +1,3 @@
-# Repositorio
-Este es mi primer repositorio de github 
+Nicolas rada
+Mi repositorio de github
+
